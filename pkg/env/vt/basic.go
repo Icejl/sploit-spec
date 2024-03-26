@@ -8,6 +8,7 @@ const (
 	Network
 	Display
 	USB
+	Audio
 	Memory
 	Other
 )  
